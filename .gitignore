@@ -1,0 +1,9 @@
+# To Ignore NetBeans Project Files
+nbproject/
+vendorApi/node_modules
+vendorApi/run.vbs
+vendorApi/run.bat
+vendorApi/.env
+/.vscode
+config.php
+/node_modules
